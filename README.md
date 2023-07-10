@@ -6,3 +6,9 @@ A flutter project resulting from the section 21 of Fernando Herrera's course thr
 
 Elements and widgets are used such as: 
 Push Notifications
+
+## dev
+Run the commands: 
+    dart pub global activate flutterfire_cli
+    flutterfire configure 
+to generate the apikey from android and ios app.
