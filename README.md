@@ -10,6 +10,8 @@ Local Notifications
 
 ## dev
 Run the commands: 
+    ```
     dart pub global activate flutterfire_cli
     flutterfire configure 
+    ```
 to generate the apikey from android and ios app.
