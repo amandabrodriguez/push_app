@@ -6,6 +6,7 @@ A flutter project resulting from the section 21 of Fernando Herrera's course thr
 
 Elements and widgets are used such as: 
 Push Notifications
+Local Notifications
 
 ## dev
 Run the commands: 
